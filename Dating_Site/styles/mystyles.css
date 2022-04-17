@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.footer {
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.heading{
+    color:lavender;
+}
+
+.mysubheading {
+    color: lightgray;
+}
+
+.mybold {
+    font-weight:bold;
+}
+
+.myitalic {
+    font-style:italic;
+}
